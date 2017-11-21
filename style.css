@@ -1,0 +1,31 @@
+.header{
+	margin: 0 0 10 0px;
+	background-color: #ffca28;
+	padding: 20px;
+	text-align: center;
+	color: #263238;
+
+}
+.image{
+	margin:20px;
+}
+.card-img-top{
+	width:200px;
+	height:200px;
+	margin: 40px;
+}
+.back{
+	background-color: white;
+	color: #263238;
+}
+.navcolor{
+	color: #263238;
+}
+
+/*#grad {
+  background: #ffca28; /* For browsers that do not support gradients */
+  /*background: -webkit-radial-gradient(#fffde7, #fff59d, #ffee58); /* Safari 5.1-6.0 */
+  /*background: -o-radial-gradient(#fffde7, #fff59d, #ffee58); /* For Opera 11.6-12.0 */
+  /*background: -moz-radial-gradient(#fffde7, #fff59d, #ffee58); /* For Firefox 3.6-15 */
+  /*background: radial-gradient(#fffde7, #fff59d, #ffee58); /* Standard syntax */
+/*}*/
